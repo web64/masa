@@ -1,5 +1,5 @@
 # MASA
-MASA - Multilingual AFINN Sentiment Analysis
+## MASA - Multilingual AFINN Sentiment Analysis
 
 Multilingual sentiment analysis library based on translated AFINN word lists.
 
