@@ -1,6 +1,10 @@
 # MASA
 MASA - Multilingual AFINN Sentiment Analysis
 
+Multilingual sentiment analysis library based on translated AFINN word lists.
+
+"AFINN is a list of English words rated for valence with an integer between minus five (negative) and plus five (positive)."
+http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010
 
 ## Usage
 ```php
